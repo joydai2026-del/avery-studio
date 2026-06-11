@@ -134,4 +134,4 @@ The QA loop blocks publishing if any of the 12 checks fail. The Designer agent r
 
 ---
 
-Built by [Joy Dong](https://joydong.org) · [ownlyagent.com](https://ownlyagent.com)
+Built by [Joy Dong](https://www.joydong.org) · [ownlyagent.com](https://ownlyagent.com)
